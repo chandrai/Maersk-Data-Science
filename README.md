@@ -7,3 +7,7 @@ Problem Solving:
 
 
 * "DS_ML Coding Challenge Dataset - Test Dataset.csv" is the Test Dataset.
+
+Tried 3 approaches - Random Forest, XG Boost and Artificial Neural Network model.
+
+XGBoost is my final approach. All explanations inside the notebook.
